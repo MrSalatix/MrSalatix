@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSalatix, from Russia
 - 👀 I’m interested in prog
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c#
 
 
 <!---
